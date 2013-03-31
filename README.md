@@ -1,6 +1,9 @@
 feature_detekta
 ===============
 
+To see examples of output:
+http://aneemtalukder.github.com/feature_detekta/
+
 Detects and displays matching features of images, no matter how much the orientation of the photos differ. 
 
 There are two methods of doing this implemented in this code. 
